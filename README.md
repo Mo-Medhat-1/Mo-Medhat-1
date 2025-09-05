@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi there 👋, I'm Mohamed Medhat  
+  Hi there 👋, I'm Mohamed Medhat
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1F72F7&width=600&lines=Machine+Learning+%7C+Data+Science+%7C+AI+Engineer;Passionate+about+Technology+%26+Problem+Solving;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1F72F7&width=600&lines=AI+Engineer+%7C+Machine+Learning+%7C+Data+Science;Passionate+About+Problem+Solving;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,20 +22,17 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Mo-Medhat-1&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mo-Medhat-1&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Medhat-1&theme=radical" alt="Streak stats"/>
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Medhat-1&theme=radical"/>
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Medhat-1&layout=compact&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Medhat-1&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
 ---
 
-## 📞 Contact Me
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/m0-medhat/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -44,10 +41,10 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="mailto:mohamedmedhatsoliman1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-🔥 Passionate about AI & Machine Learning | Open to collaborations! 🚀
+🔥 Passionate about **AI & Machine Learning** | Open to collaborations 🚀
