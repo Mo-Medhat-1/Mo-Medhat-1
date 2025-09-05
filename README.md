@@ -22,12 +22,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mo-Medhat-1&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <!-- إحصائيات عامة -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mo-Medhat-1&show_icons=true&theme=radical&count_private=false" alt="GitHub stats"/>
+
+  <!-- الستريك -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Medhat-1&theme=radical" alt="Streak stats"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Medhat-1&layout=compact&theme=radical" alt="Top languages"/>
+  <!-- أكثر اللغات استخدامًا (من Public repos فقط) -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Medhat-1&layout=compact&theme=radical&count_private=false&hide=html,css" alt="Top languages"/>
 </p>
 
 ---
