@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Medhat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1F72F7&width=700&lines=AI+Engineer+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+NLP+%7C+Data+Analysis;Always+Learning+%26+Building+Cool+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F72F7&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Machine+Learning+Specialist;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Data+Analysis+%7C+Problem+Solver;Always+Learning+%26+Building+Innovative+Solutions" alt="Typing SVG" />
 </p>
 
 ---
